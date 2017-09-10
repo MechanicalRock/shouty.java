@@ -8,6 +8,7 @@ public class Shouty {
     private Map<String, Coordinate> locations = new HashMap<String, Coordinate>();
     private Map<String, String> messages = new HashMap<String, String>();
 
+
     public void setLocation(String person, Coordinate location) {
         locations.put(person, location);
     }

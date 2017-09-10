@@ -34,7 +34,6 @@ In Eclipse:
 
 `File > Import > Existing Maven Project`
 
-
 Then browse to the directory where you downloaded shouty.java and you should see the project start importing.
 
 In IntelliJ

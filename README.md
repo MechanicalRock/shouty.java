@@ -18,15 +18,15 @@ That is, if you're attending a BDD/Cucumber course.
 
 Git:
 
-    git clone https://github.com/MagenTys/shouty.java.git
+    git clone https://github.com/MechanicalRock/shouty.java.git
     cd shouty.java
 
 Subversion:
 
-    svn checkout https://github.com/MagenTys/shouty.java/branches/THEBRANCH shouty.java
+    svn checkout https://github.com/MechanicalRock/shouty.java/branches/THEBRANCH shouty.java
     cd shouty.java
 
-Or simply [download](https://github.com/MagenTys/shouty.java/releases) a zip and expand it into a directory on your computer.
+Or simply [download](https://github.com/MechanicalRock/shouty.java/archive/master.zip) a zip and expand it into a directory on your computer.
 
 ## Import the project
 
